@@ -13,6 +13,16 @@
         "backup": ""
       },
       "enable": true
+    },
+    {
+      "title": "Señal 2",
+      "id": "senal-2",
+      "cover": "https://album.mediaset.es/cimg/807010/2020/01/08/isla1_93db.jpg",
+      "video": {
+        "normal": "",
+        "backup": ""
+      },
+      "enable": true
     }
   ]
 }
