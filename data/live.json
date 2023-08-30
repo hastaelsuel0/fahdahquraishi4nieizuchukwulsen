@@ -9,7 +9,7 @@
       "id": "senal-1",
       "cover": "https://album.mediaset.es/cimg/807010/2020/01/08/isla1_93db.jpg",
       "video": {
-        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/e9/79/e9793cd1-4d45-4b09-a7b8-d04790932483/main.ism/picky.m3u8",
+        "normal": "",
         "backup": "//ok.ru/videoembed/4884153240124"
       },
       "app": true,
