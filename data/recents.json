@@ -1,6 +1,20 @@
 [
   {
     "content": "video",
+    "season": "7",
+    "image": "https://album.mediaset.es/eimg/2023/12/11/estas-son-las-parejas-que-formaran-parte-de-la-isla-de-las-tentaciones-7_9d6d.png",
+    "contentId": "promo",
+    "category": "programas",
+    "id": "LIDLT07PROMO",
+    "video": {
+      "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/e9/79/e9793cd1-4d45-4b09-a7b8-d04790932483/main.ism/picky.m3u8",
+      "backup": ""
+    },
+    "title": "Hay más imágenes para ti",
+    "desc": "Cuatro nuevas parejas ponen rumbo a República Dominicana para afrontar el mayor reto de sus vidas: 'La isla de las tentaciones'. Con ello, la hoguera vuelve a encenderse para que estas parejas convivan junto a solteros y solteras y se enfrenten a caer en la tentación. Algo que no resulta nada fácil, puesto que los diez solteros y solteras estarán dispuestos a hacer todo lo posible por conquistarles. ¿Lo conseguirán?"
+  },
+  {
+    "content": "video",
     "season": "6",
     "image": "https://album.mediaset.es/cimg/2023/05/07/debate-8_7162.jpeg",
     "contentId": "8",
@@ -152,19 +166,5 @@
     },
     "title": "Programa 9",
     "desc": "Elena y David abordan cara a cara todo lo sucedido en una hoguera de confrontación en la que acabará participando María. Además, llegan los mensajes grabados en vídeo en los que las parejas se confesaban sus sentimientos antes de separarse para iniciar la experiencia."
-  },
-  {
-    "content": "video",
-    "season": "6",
-    "image": "https://album.mediaset.es/cimg/2023/03/13/laisladelastentaciones-8_38d6.jpeg",
-    "contentId": "8",
-    "category": "programas",
-    "id": "MDSEPS20230308_10010",
-    "video": {
-      "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/81/89/8189916a-1048-4d42-b506-392c73854a68/main.ism/picky.m3u8",
-      "backup": ""
-    },
-    "title": "Programa 8",
-    "desc": "Nuevas hogueras que traerán consecuencias para Elena tras ausentarse del anterior visionado y duras imágenes para Adrián. Además, Sandra Barneda irrumpe por sorpresa en ambas villas con una propuesta para los protagonistas."
   }
 ]
