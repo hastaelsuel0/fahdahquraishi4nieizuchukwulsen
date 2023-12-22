@@ -15,20 +15,6 @@
   },
   {
     "content": "video",
-    "season": "7",
-    "image": "https://album.mediaset.es/eimg/2023/12/11/estas-son-las-parejas-que-formaran-parte-de-la-isla-de-las-tentaciones-7_9d6d.png",
-    "contentId": "promo",
-    "category": "programas",
-    "id": "LIDLT07PROMO",
-    "video": {
-      "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/e9/79/e9793cd1-4d45-4b09-a7b8-d04790932483/main.ism/picky.m3u8",
-      "backup": ""
-    },
-    "title": "Hay más imágenes para ti",
-    "desc": "Cuatro nuevas parejas ponen rumbo a República Dominicana para afrontar el mayor reto de sus vidas: 'La isla de las tentaciones'. Con ello, la hoguera vuelve a encenderse para que estas parejas convivan junto a solteros y solteras y se enfrenten a caer en la tentación. Algo que no resulta nada fácil, puesto que los diez solteros y solteras estarán dispuestos a hacer todo lo posible por conquistarles. ¿Lo conseguirán?"
-  },
-  {
-    "content": "video",
     "season": "6",
     "image": "https://album.mediaset.es/cimg/2023/05/07/debate-8_7162.jpeg",
     "contentId": "8",
