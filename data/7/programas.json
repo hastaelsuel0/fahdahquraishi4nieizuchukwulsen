@@ -12,5 +12,19 @@
     },
     "title": "Hay más imágenes para ti",
     "desc": "Cuatro nuevas parejas ponen rumbo a República Dominicana para afrontar el mayor reto de sus vidas: 'La isla de las tentaciones'. Con ello, la hoguera vuelve a encenderse para que estas parejas convivan junto a solteros y solteras y se enfrenten a caer en la tentación. Algo que no resulta nada fácil, puesto que los diez solteros y solteras estarán dispuestos a hacer todo lo posible por conquistarles. ¿Lo conseguirán?"
+  },
+  {
+    "content": "video",
+    "season": "7",
+    "image": "https://album.mediaset.es/eimg/2023/12/22/rumboalaisla-1_8c91.jpg",
+    "contentId": "LIDLT0701",
+    "category": "programas",
+    "id": "LIDLT0701",
+    "video": {
+      "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/0d/9a/0d9a0f8c-d1a5-46f7-a97d-e048d3205706/main.ism/picky.m3u8",
+      "backup": ""
+    },
+    "title": "Rumbo a LIDLT 1",
+    "desc": "El paraíso de la isla de las tentaciones se prepara para recibir nuevas caras, nuevas historias y nuevos amores. Empieza el viaje más esperado, el de descubrir quiénes son las parejas que aterrizan en esta nueva temporada. El casting más complicado de la televisión registra de nuevo a una multitud de parejas desconocidas, y otras no tanto, dispuestas a abrir sus corazones y a dejar al descubierto cómo son sus relaciones para saber si la persona con la que comparten su vida es la correcta o no."
   }
 ]
