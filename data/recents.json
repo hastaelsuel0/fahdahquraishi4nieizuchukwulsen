@@ -2,6 +2,20 @@
   {
     "content": "video",
     "season": "7",
+    "image": "https://album.mediaset.es/cimg/2023/12/26/rumboalaisla-2plus_da39.jpg",
+    "contentId": "LIDLT0702",
+    "category": "programas",
+    "id": "rumbo-2",
+    "video": {
+      "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/5a/9a/5a9ac67b-a379-418a-a72c-d0a44255094e/main.ism/picky.m3u8",
+      "backup": ""
+    },
+    "title": "Rumbo a La Isla de las Tentaciones 2,
+    "desc": "El paraíso de la isla de las tentaciones se prepara para recibir nuevas caras, nuevas historias y nuevos amores. Empieza el viaje más esperado, el de descubrir quiénes son las parejas que aterrizan en esta nueva temporada. El casting más complicado de la televisión registra de nuevo a una multitud de parejas desconocidas, y otras no tanto, dispuestas a abrir sus corazones y a dejar al descubierto cómo son sus relaciones para saber si la persona con la que comparten su vida es la correcta o no."
+  },
+  {
+    "content": "video",
+    "season": "7",
     "image": "https://album.mediaset.es/eimg/2023/12/22/rumboalaisla-1_8c91.jpg",
     "contentId": "LIDLT0701",
     "category": "programas",
@@ -152,19 +166,5 @@
     },
     "title": "Programa 10",
     "desc": "Los avances de la mayoría de los protagonistas con sus solteros favoritos, que llevan a varios de ellos a elevar sustancialmente la temperatura en las villas, van a suponer un nuevo hito en el programa, que por primera vez en su historia convoca a las parejas a sendas hogueras de excepción. Además, Naomi ve durante 10 minutos lo que hace Adrián en Villa Playa y Manuel decide abandonar la experiencia ante el nuevo rumbo que Marina ha tomado con Miguel de Hoyos."
-  },
-  {
-    "content": "video",
-    "season": "6",
-    "image": "https://album.mediaset.es/cimg/2023/03/20/programa9_30c2.jpeg",
-    "contentId": "9",
-    "category": "programas",
-    "id": "MDSEPS20230316_10013",
-    "video": {
-      "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/56/dc/56dc0884-f914-4c17-8bdc-0f02ba464348/main.ism/picky.m3u8",
-      "backup": ""
-    },
-    "title": "Programa 9",
-    "desc": "Elena y David abordan cara a cara todo lo sucedido en una hoguera de confrontación en la que acabará participando María. Además, llegan los mensajes grabados en vídeo en los que las parejas se confesaban sus sentimientos antes de separarse para iniciar la experiencia."
   }
 ]
