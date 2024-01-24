@@ -1,0 +1,125 @@
+[
+  {
+    "content": "temporadas",
+    "tabs": [
+      {
+        "title": "Programas",
+        "id": "programas",
+        "cover": "https://album.mediaset.es/cimg/807010/2020/01/08/isla1_93db.jpg",
+        "enable": true
+      }
+    ],
+    "season": "1",
+    "id": "T01",
+    "title": "Temporada 1",
+    "image": "https://album.mediaset.es/cimg/807010/2020/01/08/isla1_93db.jpg"
+  },
+  {
+    "content": "temporadas",
+    "tabs": [
+      {
+        "title": "Programas",
+        "id": "programas",
+        "cover": "https://album.mediaset.es/cimg/807010/2020/09/22/LaIslaDeLasTentaciones12_cc9e.jpg",
+        "enable": true
+      }
+    ],
+    "season": "2",
+    "id": "T02",
+    "title": "Temporada 2",
+    "image": "https://album.mediaset.es/cimg/807010/2020/09/22/LaIslaDeLasTentaciones12_cc9e.jpg"
+  },
+  {
+    "content": "temporadas",
+    "tabs": [
+      {
+        "title": "Programas",
+        "id": "programas",
+        "cover": "https://album.mediaset.es/cimg/807010/2021/01/21/laislat3_programa1_239b.jpg",
+        "enable": true
+      }
+    ],
+    "season": "3",
+    "id": "T03",
+    "title": "Temporada 3",
+    "image": "https://album.mediaset.es/cimg/807010/2021/01/21/laislat3_programa1_239b.jpg"
+  },
+  {
+    "content": "temporadas",
+    "tabs": [
+      {
+        "title": "Programas",
+        "id": "programas",
+        "cover": "https://album.mediaset.es/cimg/807010/2021/11/09/LIDLT_1_851f.jpg",
+        "enable": true
+      }
+    ],
+    "season": "4",
+    "id": "T04",
+    "title": "Temporada 4",
+    "image": "https://album.mediaset.es/cimg/807010/2021/11/09/LIDLT_1_851f.jpg"
+  },
+  {
+    "content": "temporadas",
+    "tabs": [
+      {
+        "title": "Programas",
+        "id": "programas",
+        "cover": "https://album.mediaset.es/cimg/2022/09/20/lidlt5-progra1_9bcd.jpeg",
+        "enable": true
+      },
+      {
+        "title": "Debates",
+        "id": "debates",
+        "cover": "https://album.mediaset.es/cimg/2022/09/27/lidlt5-pdebate1_9c74.jpeg",
+        "enable": true
+      }
+    ],
+    "season": "5",
+    "id": "T05",
+    "title": "Temporada 5",
+    "image": "https://album.mediaset.es/cimg/2022/09/20/lidlt5-progra1_9bcd.jpeg"
+  },
+  {
+    "content": "temporadas",
+    "tabs": [
+      {
+        "title": "Programas",
+        "id": "programas",
+        "cover": "https://album.mediaset.es/cimg/2023/01/24/programa1_fb7e.jpeg",
+        "enable": true
+      },
+      {
+        "title": "Debates",
+        "id": "debates",
+        "cover": "https://album.mediaset.es/cimg/2023/01/25/laisladelastentaciones6-debate1_3e25.jpeg",
+        "enable": true
+      }
+    ],
+    "season": "6",
+    "id": "T06",
+    "title": "Temporada 6",
+    "image": "https://album.mediaset.es/cimg/2023/01/24/programa1_fb7e.jpeg"
+  },
+  {
+    "content": "temporadas",
+    "tabs": [
+      {
+        "title": "Programas",
+        "id": "programas",
+        "cover": "https://album.mediaset.es/cimg/2024/01/09/programa-1_da39.jpg",
+        "enable": true
+      },
+      {
+        "title": "Debates",
+        "id": "debates",
+        "cover": "",
+        "enable": false
+      }
+    ],
+    "season": "7",
+    "id": "T07",
+    "title": "Temporada 7",
+    "image": "https://album.mediaset.es/cimg/2024/01/09/programa-1_da39.jpg"
+  }
+]

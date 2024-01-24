@@ -1,0 +1,180 @@
+{
+  "featured": {
+    "enable": false,
+    "content": "featured",
+    "image": "",
+    "url": "#",
+    "title": "",
+    "desc": ""
+  },
+  "content": [
+    {
+      "content": "video",
+      "season": "7",
+      "image": "https://album.mediaset.es/cimg/2024/01/17/tentacionesaftershow-3plus_da39.jpg",
+      "contentId": "after-3",
+      "category": "programas",
+      "id": "MDSEPS20240115_10044",
+      "video": {
+        "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/9f/e0/9fe041c3-d9a6-4b24-ad79-05b24790d084/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Tentaciones After Show 3",
+      "desc": "Andrea, la gran protagonista de la edición de La isla de las tentaciones, visita el plató de \"Tentaciones After Show' para contarnos de primera mano cómo ha vivido la experiencia. El programa también contará con la participación de Alejandre Rubio y Suso que comentarán la primera infidelidad de la temporada y la llegada de una nueva pareja."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "image": "https://album.mediaset.es/cimg/2024/01/16/programa-3plus_da39.jpg",
+      "contentId": "3",
+      "category": "programas",
+      "id": "MDSEPS20240115_10042",
+      "video": {
+        "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/62/98/6298ef52-cad4-4dcd-b5d2-4f78dcedcab2/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Programa 3",
+      "desc": "Después de un agitado inicio de la aventura, Andrea y Álvaro se vuelven a ver las caras en una hoguera de confrontación que resolverá su devenir en el programa. Además, las chicas se enfrentan a las primeras imágenes de sus chicos en su primera hoguera."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "image": "https://album.mediaset.es/cimg/2024/01/10/tentacionesaftershow-2plus_da39.jpg",
+      "contentId": "after-2",
+      "category": "programas",
+      "id": "MDSEPS20240108_10036",
+      "video": {
+        "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/5e/55/5e55c255-f450-4d79-b9bb-9279bf3a5080/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Tentaciones After Show 2",
+      "desc": "El programa viene cargado con un 90% de imágenes inéditas y avances exclusivos: las últimas horas de Rober y Alba, el repentino abandono de Andrea y una secuencia impactante e inédita de su encuentro con Sandra Barneda. Además, un avance en exclusiva de la primera hoguera de confrontación y la primera de Andrea tras su salida del reality. "
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "image": "https://album.mediaset.es/cimg/2024/01/08/programa-2plus_da39.jpg",
+      "contentId": "2",
+      "category": "programas",
+      "id": "MDSEPS20240108_10032",
+      "video": {
+        "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/a2/00/a200d6b0-b9b7-41da-9ec2-a9a298ab57aa/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Programa 2",
+      "desc": "Una de las cinco parejas no aguanta la presión de la isla y pone fin a su aventura antes de tiempo. En su lugar, entrará una nueva pareja. Las parejas y sus tentaciones disfrutarán de la primera cita juntos. Además, los chicos debutan ante la tablet en la que ven imágenes que van a poner al límite sus relaciones y Sandra Barneda y un soltero irrumpen con imágenes inéditas en Villa Playa."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "image": "https://album.mediaset.es/cimg/2024/01/09/tentaciones-aftershow1plus_da39.jpg",
+      "contentId": "after-1",
+      "category": "programas",
+      "id": "MDSEPS20240108_10035",
+      "video": {
+        "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/80/b3/80b325e2-2989-4744-b3d0-8be7a108d0e5/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Tentaciones After Show 1",
+      "desc": "Marta Peñate y Asier Montaño realizan el análisis más divertido y desenfadado del primer programa de esta edición y cuentan con Naomi Asensi como invitada. Además, 15 minutos de imágenes inéditas y avances exclusivos y lo que ocurre con Rober después del bombazo final.  "
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "image": "https://album.mediaset.es/cimg/2024/01/08/programa-1plus_da39.jpg",
+      "contentId": "1",
+      "category": "programas",
+      "id": "MDSEPS20240108_10031",
+      "video": {
+        "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/e3/43/e343697b-31b5-4686-93a8-6b481c32be8c/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Programa 1",
+      "desc": "\"La isla de las tentaciones' vuelve a recibir a cinco parejas y a sus tentaciones en una nueva edición del programa. La elección de los collares y las primeras fiestas provocarán ya roces y enfados entre los concursantes. Esto solo acaba de empezar..."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "image": "https://album.mediaset.es/cimg/2023/12/26/rumboalaisla-2plus_da39.jpg",
+      "contentId": "LIDLT0702",
+      "category": "programas",
+      "id": "rumbo-2",
+      "video": {
+        "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/5a/9a/5a9ac67b-a379-418a-a72c-d0a44255094e/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Rumbo a La Isla de las Tentaciones 2",
+      "desc": "El paraíso de la isla de las tentaciones se prepara para recibir nuevas caras, nuevas historias y nuevos amores. Empieza el viaje más esperado, el de descubrir quiénes son las parejas que aterrizan en esta nueva temporada. El casting más complicado de la televisión registra de nuevo a una multitud de parejas desconocidas, y otras no tanto, dispuestas a abrir sus corazones y a dejar al descubierto cómo son sus relaciones para saber si la persona con la que comparten su vida es la correcta o no."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "image": "https://album.mediaset.es/eimg/2023/12/22/rumboalaisla-1_8c91.jpg",
+      "contentId": "LIDLT0701",
+      "category": "programas",
+      "id": "LIDLT0701",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/79/0f/790f6141-15f0-4460-9673-63c2b141e915/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Rumbo a La Isla de las Tentaciones 1",
+      "desc": "El paraíso de la isla de las tentaciones se prepara para recibir nuevas caras, nuevas historias y nuevos amores. Empieza el viaje más esperado, el de descubrir quiénes son las parejas que aterrizan en esta nueva temporada. El casting más complicado de la televisión registra de nuevo a una multitud de parejas desconocidas, y otras no tanto, dispuestas a abrir sus corazones y a dejar al descubierto cómo son sus relaciones para saber si la persona con la que comparten su vida es la correcta o no."
+    },
+    {
+      "content": "video",
+      "season": "6",
+      "image": "https://album.mediaset.es/cimg/2023/05/07/debate-8_7162.jpeg",
+      "contentId": "8",
+      "category": "debates",
+      "id": "MDSEPS20230504_10018",
+      "video": {
+        "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/b0/30/b0300c0b-760c-418a-bb97-44736c5037c2/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 8",
+      "desc": "En la última entrega, acuden a plató todos los protagonistas de ‘La Isla de las Tentaciones 6’, aunque el protagonismo recaerá especialmente en Elena y David, Marina y Álex y Laura y Alejandro, que compartirán cómo han evolucionado sus relaciones tras su reencuentro seis meses después de la experiencia dominicana. Además, el programa mostrará pruebas de nuevas deslealtades y descubrirá el romance de una de las protagonistas."
+    },
+    {
+      "content": "video",
+      "season": "6",
+      "image": "https://album.mediaset.es/cimg/2023/04/29/debate-7_f14e.jpeg",
+      "contentId": "7",
+      "category": "debates",
+      "id": "MDSEPS20230426_10011",
+      "video": {
+        "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/29/f3/29f30dbc-fbf1-4f87-a661-6b31db07a99a/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 7",
+      "desc": "Naomi y Adrián están presentes en el plató junto a Sandra Barneda para comentar cómo se encuentra actualmente su relación. ¿Se habrá producido algún cambio tras lo visto en su reencuentro seis meses después? También estarán los dos solteros con los que más conectaron durante la experiencia dominicana, Napoli y Keyla, respectivamente. Además, el programa descubrirá una traición entre dos de los protagonistas de ‘La Isla de las Tentaciones’ y contará también con la participación de otra de las parejas, Lydia y Manuel."
+    },
+    {
+      "content": "video",
+      "season": "6",
+      "image": "https://album.mediaset.es/cimg/2023/05/05/tentacionesaftershow-3plus_82e5.jpeg",
+      "contentId": "tentaciones-after-show-3",
+      "category": "programas",
+      "id": "MDSEPS20230424_10044",
+      "video": {
+        "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/cd/65/cd657802-806c-43db-9073-9b0d0662e097/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Tentaciones After Show 3",
+      "desc": "De nuevo tenemos un bombazo que otra vez dará mucho de que hablar. Además, tenemos la presencia de David y María, que se abrirán para contar todo sobre su relación y su polémico paso por \"La isla de las tentaciones\"."
+    },
+    {
+      "content": "video",
+      "season": "6",
+      "image": "https://album.mediaset.es/cimg/2023/05/01/tentacionesaftershow-2plusok_7ad6.jpeg",
+      "contentId": "tentaciones-after-show-2",
+      "category": "programas",
+      "id": "MDSEPS20230424_10043",
+      "video": {
+        "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/ea/be/eabeca49-f03b-41fe-89c3-d8eb182dae9f/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Tentaciones After Show 2",
+      "desc": "Cuqui y Jesús Bolín comienzan el programa advirtiendo sobre una exclusiva bomba que nadie se espera sobre la que hablará en plató la persona afectada. Naomi y Yenesi, entre otros invitados, participan en este segundo \"After Show\"."
+    }
+  ]
+}

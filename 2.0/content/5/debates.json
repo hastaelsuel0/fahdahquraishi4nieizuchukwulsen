@@ -1,0 +1,215 @@
+{
+  "title": "Debates",
+  "content": [
+    {
+      "content": "video",
+      "season": "5",
+      "image": "https://album.mediaset.es/cimg/2022/09/27/lidlt5-pdebate1_9c74.jpeg",
+      "contentId": "1",
+      "category": "debates",
+      "id": "MDSEPS20220922_10015",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/2d/b9/2db98b86-69ea-4d5e-81f0-e4125ed12b8d/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 1",
+      "desc": "Sandra Barneda conduce un primer debate cargado de imágenes inéditas de las primeras horas de convivencia en Villa Playa y Villa Paraíso, así como la secuencia completa de la \"no\" despedida de Laura y Mario antes de iniciar la experiencia. Además, se descubre qué luz de la tentación, de las cinco que presiden cada villa, se activa primero, el protagonista y motivo de que se ponga en funcionamiento y la reacción que genera en la otra villa."
+    },
+    {
+      "content": "video",
+      "season": "5",
+      "image": "https://album.mediaset.es/cimg/2022/10/04/lidlt5-pdebate2_7743.jpeg",
+      "contentId": "2",
+      "category": "debates",
+      "id": "MDSEPS20220930_10039",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/46/ba/46ba588f-3112-4a16-90ec-4e51b7c7b0c8/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 2",
+      "desc": "La nueva entrega de ‘El debate de las tentaciones’ ha traído consigo muchas novedades exclusivas. Además de nuevas imágenes inéditas, descubríamos la identidad del segundo tentador VIP de la edición: Álvaro Boix. Y, como en cada programa de \"La isla de las tentaciones\", su entrada en Villa Playa traía sorpresa incluida (03/10/2022)."
+    },
+    {
+      "content": "video",
+      "season": "5",
+      "image": "https://album.mediaset.es/cimg/2022/10/11/lidlt5-pdebate3_9589.jpeg",
+      "contentId": "3",
+      "category": "debates",
+      "id": "MDSEPS20221006_10038",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/1f/2e/1f2ef558-380c-41f5-a619-fa41902962cd/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 3",
+      "desc": "El tercer debate presentado en directo por Sandra Barneda ha mostrado muchas imágenes inéditas de \"La isla de las tentaciones\". Laura ya ha caído en la tentación y Mario y Valeria están cada vez más cerca, de los que se ha podido ver un avance de sus imágenes más \"hot\". Cristian, un hombre misterioso, que aparece en la hoguera de las chicas el próximo episodio, ha estado en directo en plató para contar algunas pinceladas de lo que significa su aparición en el programa: Lo cambia todo (10/10/2022)."
+    },
+    {
+      "content": "video",
+      "season": "5",
+      "image": "https://album.mediaset.es/cimg/2022/10/18/lidlt5-pdebate4_ac2a.jpeg",
+      "contentId": "4",
+      "category": "debates",
+      "id": "MDSEPS20221014_10090",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/b5/d9/b5d972ae-cd41-4c34-8452-f57b53cead03/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 4",
+      "desc": "Tras la primera infidelidad de Laura y Mario, las villas están que arden. En un nuevo programa de \"El debate de las tentaciones\", Sandra Barneda y los colaboradores visionan imágenes exclusivas sobre las parejas. Además, descubrimos quiénes son Ana y Cristian, los nuevos participantes del reality (17/10/2022)."
+    },
+    {
+      "content": "video",
+      "season": "5",
+      "image": "https://album.mediaset.es/cimg/2022/10/25/lidlt5-pdebate5_916f.jpeg",
+      "contentId": "5",
+      "category": "debates",
+      "id": "MDSEPS20221020_10054",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/c5/c7/c5c7ea8e-60dd-4d85-b6f7-3a433bb524df/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 5",
+      "desc": "\"La isla de las tentaciones\" está que arde. Manu y Sara han sido expulsados por decisión de las chicas. En \"El debate de las tentaciones\", Manu afronta todas las críticas por su actitud en el reality. Además, Sandra Barneda revela nuevas imágenes del paraíso que cambiarán por completo el transcurso de la aventura: Tania ha caído en la tentación con Hugo Paz y Mario amenaza con abandonar tras su reencuentro con Laura en la \"Hoguera de confrontación\" (24/10/2022)."
+    },
+    {
+      "content": "video",
+      "season": "5",
+      "image": "https://album.mediaset.es/cimg/2022/11/01/mitele2022-10-31-23h22m09s563_5bde.jpeg",
+      "contentId": "6",
+      "category": "debates",
+      "id": "MDSEPS20221026_10064",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/b2/7b/b27bed4b-e909-4602-8031-6bb3d422f84a/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 6",
+      "desc": "El programa, que emitirá nuevas imágenes sobre lo sucedido en Villa Playa y Villa Paraíso, revelará cómo un nuevo protagonista cae en la tentación de manera inesperada, analizará la huida a la carrera de la hoguera protagonizada por Javi; y ofrecerá en detalle el largo beso de Tania y Hugo con la reacción inmediatamente posterior de ella."
+    },
+    {
+      "content": "video",
+      "season": "5",
+      "image": "https://album.mediaset.es/cimg/2022/11/08/lidlt5-pdebate7_9bf9-3.jpeg",
+      "contentId": "7",
+      "category": "debates",
+      "id": "MDSEPS20221103_10044",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/1b/fe/1bfe1738-7496-4361-a3b1-011f7dcb9732/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 7",
+      "desc": "Javi consigue llegar a Villa Playa tras huir de la hoguera y veremos la reacción de Claudia al ver a su novio. Unas imágenes de la influencer con Álvaro Boix harán que Javi no pueda controlarse y decida salir corriendo para hablar con su chica. Además, una pareja se reencuentra en \"El espejo de las Tentaciones\" y sabremos cómo será su reacción al verse después de todo lo que ha sucedido en la isla (07/11/2022)."
+    },
+    {
+      "content": "video",
+      "season": "5",
+      "image": "https://album.mediaset.es/cimg/2022/11/15/lidlt5-pdebate8_7da3.jpeg",
+      "contentId": "8",
+      "category": "debates",
+      "id": "MDSEPS20221110_10022",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/38/29/38294668-b2f2-483b-ace6-0176d4270dc2/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 8",
+      "desc": "La última hora de \"La isla de las tentaciones 5\" ha llegado de la mano de Sandra Barneda en \"El debate de las tentaciones\". La nueva entrega ha mostrado todo lo que ha sucedido en ambas villas e imágenes inéditas del reencuentro entre Andreu y Paola frente al espejo. Además, Tania y Mario han visitado el plató por primera vez y hemos desvelado la identidad de la protagonista desterrada (14/11/2022)."
+    },
+    {
+      "content": "video",
+      "season": "5",
+      "image": "https://album.mediaset.es/cimg/2022/11/22/lidlt5-pdebate9_dc7d.jpeg",
+      "contentId": "9",
+      "category": "debates",
+      "id": "MDSEPS20221116_10035",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/89/f5/89f50f25-c6f0-41ab-9fd8-d06d87e8145a/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 9",
+      "desc": "Por primera vez en la historia de \"La isla de las tentaciones\" se activa la hoguera de emergencia y \"El debate de las tentaciones\" vemos un adelanto de cómo se produjo. Además, Javi y Ana visitan el plató y responden a todos sus frentes abiertos (21/11/2022)."
+    },
+    {
+      "content": "video",
+      "season": "5",
+      "image": "https://album.mediaset.es/cimg/2022/11/28/logopng_40e2.jpeg",
+      "contentId": "10",
+      "category": "debates",
+      "id": "MDSEPS20221123_10092",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/3d/a6/3da6a9c0-0f4c-4707-8e30-fbf77934a35f/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 10",
+      "desc": "Cristian podrá explicar sus decisiones en Villa Paraíso y será testigo de un vídeo inédito en el que María de los Ángeles le cuenta a Elena lo que han vivido ambos en el dormitorio. Por su parte, Laura compartirá qué siente por Adrián, así como lo sucedido con Álvaro antes de participar en el programa y si Mario estaba al corriente de ello.  Además, podrá ver la reacción de su pareja en la pasada hoguera y las imágenes que le llevaron a actuar de esa forma.Por otro lado, el programa emitirá nuevas imágenes inéditas del acercamiento entre Claudia y Álvaro y el temor de Javi ante los posibles avances de su pareja; así como de la relación de Samu con Jessica, mientras su novia, Tania, ha pasado la noche con Hugo. Además, ofrecerá un avance del próximo programa, que los colaboradores podrán ir también descubriendo a lo largo de la noche en una tablet que portará Sandra Barneda. "
+    },
+    {
+      "content": "video",
+      "season": "5",
+      "image": "https://album.mediaset.es/cimg/2022/12/06/debateislatentaciones-11_b038.jpeg",
+      "contentId": "11",
+      "category": "debates",
+      "id": "MDSEPS20221202_10023",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/1d/1f/1d1f9a8f-360b-4f48-a50e-2b1663953f46/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 11",
+      "desc": "Claudia Martínez se ha hundido en el debate de \"La isla de las tentaciones\" al explicar todo lo que ha ocurrido hasta el momento con Álvaro y se ha sincerado sobre su relación con Javi. Llevo cinco meses machacándome por lo que hice, confiesa antes de recibir el apoyo de Sandra Barneda. Además, Samu habla de su relación con Tania y de su caída en la tentación con Elena."
+    },
+    {
+      "content": "video",
+      "season": "5",
+      "image": "https://album.mediaset.es/cimg/2022/12/14/lidlt5-debate12_3c3f.jpeg",
+      "contentId": "12",
+      "category": "debates",
+      "id": "MDSEPS20221207_10047",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/72/bd/72bd8b37-7e06-49c7-8f0f-f817778fff01/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 12",
+      "desc": "Álvaro Boix ha ido a ‘El debate de las tentaciones’ a dar su versión sobre todo lo que vivió y sintió por Claudia cuando compartían villa en ‘La isla de las tentaciones’. La novia de Javi llegó con la convicción de que no se iba a sentir atraída por ninguno de los solteros, pero al final acabó cayendo en la tentación con Álvaro. Además, Una broma de Marta Peñate sobre la relación de Alejandro Nieto y Tania Medina provocaba una gran bronca en plató (13/12/2022)."
+    },
+    {
+      "content": "video",
+      "season": "5",
+      "image": "https://album.mediaset.es/cimg/2022/12/21/lidlt5-debate13_5d05.jpeg",
+      "contentId": "13",
+      "category": "debates",
+      "id": "MDSEPS20221215_10030",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/aa/9f/aa9fa3ce-7637-41cc-b380-d92dec305f07/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 13",
+      "desc": "La quinta edición de ‘La isla de las tentaciones’ está llegando a su final y en el debate hemos podido ver avances exclusivos de las hogueras finales de las parejas. Además. Vladi ha acudido al plató de ‘El debate de las tentaciones’ para responder a todas las dudas sobre su paso por Villa Playa (20/12/2022)."
+    },
+    {
+      "content": "video",
+      "season": "5",
+      "image": "https://album.mediaset.es/cimg/2022/12/28/lidlt5-debate14_6414.jpeg",
+      "contentId": "14",
+      "category": "debates",
+      "id": "MDSEPS20221227_10028",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/bitmovin/43/59/435912fb-d6d0-4eec-a007-efca478f5a9d/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 14",
+      "desc": "Tras el reencuentro vivido en el \"3 meses después\" no han dejado de suceder historias entre las parejas de la quinta edición de \"La isla de las tentaciones\", unas historias y sentimientos que intentarán ser clarificados en el debate final. Javi y Claudia, Mario y Laura y Manu y Sara analizan la situación actual de sus relaciones."
+    },
+    {
+      "content": "video",
+      "season": "5",
+      "image": "https://album.mediaset.es/cimg/2022/12/29/lidlt5-debate15_c095.jpeg",
+      "contentId": "15",
+      "category": "debates",
+      "id": "MDSEPS20221228_10029",
+      "video": {
+        "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/1b/08/1b08f69a-e8cb-46de-bd41-cc5485d4d132/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Debate 15",
+      "desc": "El colofón final a la quinta edición de \"La isla de las tentaciones\" llega con el último debate de la temporada, en el cual estarán presentes Tania y Samuel, Ana y Cristian y Paola y Andreu."
+    }
+  ]
+}
