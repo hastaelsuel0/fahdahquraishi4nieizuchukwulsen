@@ -149,18 +149,24 @@
         {
           "title": "Programas",
           "id": "programas",
-          "cover": "https://album.mediaset.es/eimg/2023/12/11/estas-son-las-parejas-que-formaran-parte-de-la-isla-de-las-tentaciones-7_9d6d.png",
+          "cover": "https://album.mediaset.es/cimg/2024/01/08/programa-1plus_da39.jpg",
+          "enable": true
+        },
+      {
+          "title": "Debates (26 de Enero - 9:00 AM)",
+          "id": "debates",
+          "cover": "https://album.mediaset.es/eimg/2024/01/25/sandra-barneda_31d7.jpg",
           "enable": true
         }
       ],
     "tv": {
-      "debates": "",
-      "programas": "https://album.mediaset.es/eimg/2023/12/11/estas-son-las-parejas-que-formaran-parte-de-la-isla-de-las-tentaciones-7_9d6d.png"
+      "debates": "https://album.mediaset.es/eimg/2024/01/25/sandra-barneda_31d7.jpg",
+      "programas": "https://album.mediaset.es/cimg/2024/01/08/programa-1plus_da39.jpg"
     },
     "season": "7",
     "cover": {
-      "debates": "",
-      "programas": "https://album.mediaset.es/eimg/2023/12/11/estas-son-las-parejas-que-formaran-parte-de-la-isla-de-las-tentaciones-7_9d6d.png"
+      "debates": "https://album.mediaset.es/eimg/2024/01/25/sandra-barneda_31d7.jpg",
+      "programas": "https://album.mediaset.es/cimg/2024/01/08/programa-1plus_da39.jpg"
     },
     "id": "T07",
     "title": "Temporada 7"
