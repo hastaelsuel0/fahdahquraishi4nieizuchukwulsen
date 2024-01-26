@@ -153,19 +153,19 @@
           "enable": true
         },
       {
-          "title": "Debates (26 de Enero - 9:00 AM)",
+          "title": "Debates",
           "id": "debates",
-          "cover": "https://album.mediaset.es/eimg/2024/01/25/sandra-barneda_31d7.jpg",
+          "cover": "https://album.mediaset.es/cimg/2024/01/25/lidltdebate01plus_da39.jpg",
           "enable": true
         }
       ],
     "tv": {
-      "debates": "https://album.mediaset.es/eimg/2024/01/25/sandra-barneda_31d7.jpg",
+      "debates": "https://album.mediaset.es/cimg/2024/01/25/lidltdebate01plus_da39.jpg",
       "programas": "https://album.mediaset.es/cimg/2024/01/08/programa-1plus_da39.jpg"
     },
     "season": "7",
     "cover": {
-      "debates": "https://album.mediaset.es/eimg/2024/01/25/sandra-barneda_31d7.jpg",
+      "debates": "https://album.mediaset.es/cimg/2024/01/25/lidltdebate01plus_da39.jpg",
       "programas": "https://album.mediaset.es/cimg/2024/01/08/programa-1plus_da39.jpg"
     },
     "id": "T07",
